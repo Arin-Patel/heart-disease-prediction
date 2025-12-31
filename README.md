@@ -37,6 +37,16 @@ The goal of this project is to apply data analysis and basic machine learning co
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Model Output (KNN)
+![KNN Output](screenshots/KNN_op.png)
+
+### 🔹 Data Analysis & Visualization
+![Charts](screenshots/CHARTS.png)
+
+---
+
 ## 📈 Results
 - Evaluated model performance using accuracy and other metrics
 - Compared results of different machine learning algorithms
