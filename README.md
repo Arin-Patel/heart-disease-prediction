@@ -40,10 +40,10 @@ The goal of this project is to apply data analysis and basic machine learning co
 ## 📸 Screenshots
 
 ### 🔹 Model Output (KNN)
-![KNN Output](screenshots/KNN_op.png)
+![KNN Output](screenshots/KNN_p.png)
 
 ### 🔹 Data Analysis & Visualization
-![Charts](screenshots/CHARTS.png)
+![Charts](screenshots/CHARTS.PNG)
 
 ---
 
